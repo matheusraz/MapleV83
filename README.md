@@ -4,7 +4,9 @@
 
 ## Intro
 
-Projeto com objetivo de construir um servidor privado de MapleStory para jogadores à nivel mundial, explorando assim novas features que não existiram no server Global e nem no Brasileiro, e explorando novos conceitos implementados de outros servers V83 como inspiração para novos moldes ao que criaremos.
+Projeto com objetivo de construir um servidor privado de MapleStory para jogadores à nivel mundial, explorando assim novas features que não existiram no server Global e nem no Brasileiro, e explorando novos conceitos implementados de outros servers V83 como inspiração para novos moldes ao que criaremos. 
+
+OBS: Usaremos [*este*](http://forum.ragezone.com/f428/maplestory-private-server-v83-741739/) tutorial como base.
 
 ## Links Úteis (Download)
 
