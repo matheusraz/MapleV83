@@ -23,7 +23,7 @@ Link | Descrição
 
 **OBS 1**: Após efetuar o dowload de todos os arquivos listados na tabela acima, abra o diretório do ``Arquivo Source (Server)`` e clone o projeto deste repositório dentro dele. Usaremos o arquivo src deste repositório para fazer as modificações nos arquivos java que moldaram o desenvolvimento do Maple.
 
-**OBS 2**: Para as modificações surtirem efeito, é necessário buildar o projeto (src) no Eclipse e substituir os arquivos buildados na pasta dist que se encontra dentro do diretório ``Arquivo Source (Server)``, em seguida só subir o servidor normalmente executando o ``[ZenthosDev] OneW.bat``.
+**OBS 2**: Para as modificações surtirem efeito, é necessário buildar o projeto (src) no Eclipse e substituir os arquivos buildados na pasta dist que se encontra dentro do diretório ``Arquivo Source (Server)``, em seguida só subir o servidor normalmente executando o ``[ZenthosDev] OneW.bat`` e abrir o jogo como administrador executando o arquivo ``Localhostv83.exe``.
 
 ## Authors
 ``` Matheus Raz ``` [@matheusraz](https://github.com/matheusraz)
