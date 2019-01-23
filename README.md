@@ -6,7 +6,7 @@
 
 Projeto com objetivo de construir um servidor privado de MapleStory para jogadores à nivel mundial, explorando assim novas features que não existiram no server Global e nem no Brasileiro, e explorando novos conceitos implementados de outros servers V83 como inspiração para novos moldes ao que criaremos. 
 
-OBS: Usaremos [*este*](http://forum.ragezone.com/f428/maplestory-private-server-v83-741739/) tutorial como base.
+**OBS**: Usaremos [*este*](http://forum.ragezone.com/f428/maplestory-private-server-v83-741739/) tutorial como base.
 
 ## Links Úteis (Download)
 
@@ -20,6 +20,10 @@ Link | Descrição
 [Arquivo Source (Server) ](http://www.mediafire.com/file/j43req4bj7l6nzk/ZenthosDev.rar) | Código fonte que iremos desenvolver em cima.
 [XMLs Arqs. (WZ) ](http://www.mediafire.com/file/95sypygu1la3aeo/v83+XMLs.zip) | Arquivos a serem sobrescritos para funcionamento correto dos arquivos ao executar o server.
 [Eclipse](https://www.eclipse.org/downloads/) | IDE usada para desenvolvimento.
+
+**OBS 1**: Após efetuar o dowload de todos os arquivos listados na tabela acima, abra o diretório do ``Arquivo Source (Server)`` e clone o projeto deste repositório dentro dele. Usaremos o arquivo src deste repositório para fazer as modificações nos arquivos java que moldaram o desenvolvimento do Maple.
+
+**OBS 2**: Para as modificações surtirem efeito, é necessário buildar o projeto (src) no Eclipse e substituir os arquivos buildados na pasta dist que se encontra dentro do diretório ``Arquivo Source (Server)``, em seguida só subir o servidor normalmente executando o ``[ZenthosDev] OneW.bat``.
 
 ## Authors
 ``` Matheus Raz ``` [@matheusraz](https://github.com/matheusraz)
